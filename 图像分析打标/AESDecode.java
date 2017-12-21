@@ -139,7 +139,7 @@ public class AESDecode {
 
     public static void main(String[] args) throws Exception {
         // 发送POST请求示例
-        String ak_id = "LTAIjPRMl8bQdj7U"; //用户ak
+        String ak_id = "xxx"; //用户ak
         String ak_secret = "Ld7WoG4d0ICWjfFdpNrLS8q7E3VqXR"; // 用户ak_secret
         String url = "https://dtplus-cn-shanghai.data.aliyuncs.com/image/tag";
         String body = "{\"type\":0,\"image_url\":\"http://wanglittlehandsome.oss-cn-beijing.aliyuncs.com/wangyao/image/liuyifei.jpg\"}";
